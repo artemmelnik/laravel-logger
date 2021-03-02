@@ -38,6 +38,12 @@ npm run hot
 npm run production
 ```
 
+## Cron command
+
+```$xslt
+php artisan sync:logs
+```
+
 ## API
 
 ```bash
